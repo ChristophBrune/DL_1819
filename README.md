@@ -74,6 +74,9 @@ Follow the following instructions to install Miniconda and create a Python envir
 <br> 
 
 ## Python notebooks of the course
+
+[Tutorial 1: Introduction to Python, MLP and Backpropagation](https://github.com/ChristophBrune/DL_1819/tree/master/codes/1_tutorial)
+
 <br>
 <br>
 <br>
