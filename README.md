@@ -1,7 +1,7 @@
 # DL_1819
 Deep Learning University of Twente
 
-## DL_1819: Deep Learning: From Theory to Practice <br> Christoph Brune
+## DL_1819: Deep Learning - From Theory to Practice <br> Christoph Brune
    
 <br>
 <br>
@@ -10,7 +10,6 @@ Deep Learning University of Twente
 
 [Tutorial 1: Introduction to Python, MLP and Backpropagation](https://github.com/ChristophBrune/DL_1819/tree/master/codes/1_tutorial)
 
-<br>
 <br>
 
 ## Local Python installation
@@ -73,13 +72,6 @@ Follow the following instructions to install Miniconda and create a Python envir
 [conda-forge]: https://conda-forge.org
 
 
-
-
-<br> 
-<br> 
-<br>
-<br>
-<br>
 <br>
 <br>
 
