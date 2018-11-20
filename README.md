@@ -1,7 +1,7 @@
 # DL_1819
 Deep Learning University of Twente
 
-## DL_1819: Deep Learning: From Theory to Practice <br> 2018/19, Quarter 2 <br> Christoph Brune
+## DL_1819: Deep Learning: From Theory to Practice <br> Christoph Brune
     
    
 
