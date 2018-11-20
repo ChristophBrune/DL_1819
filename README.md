@@ -1,5 +1,5 @@
 # DL_1819
-Deep Learning University of Twente
+Deep Learning Course, University of Twente
 
 ## DL_1819: Deep Learning - From Theory to Practice <br> Christoph Brune
    
