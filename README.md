@@ -48,7 +48,7 @@ Follow the following instructions to install Miniconda and create a Python envir
 1. Activate the environment. Windows: `activate deeplearn_course`, macOS, Linux: `source activate deeplearn_course`.
 1. Download the python notebooks by direct downloads from the next section or with GitHub with the command `git pull`. 
 1. Start Jupyter with `jupyter notebook`. The command opens a new tab in your web browser.
-1. Go to the exercise folder, for example `DL_1819/codes/lab01_python`.
+1. Go to the exercise folder, for example `DL_1819/codes/1_tutorial/lab01_python`.
 
 
 	Notes:<br> 
