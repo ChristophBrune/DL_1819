@@ -9,6 +9,7 @@ Deep Learning Course, University of Twente
 ## Python notebooks of the course
 
 [Jypyter Online Repository - Binder](https://mybinder.org/v2/gh/ChristophBrune/DL_1819/master)
+
 [Tutorial 1: Introduction to Python, MLP and Backpropagation](https://github.com/ChristophBrune/DL_1819/tree/master/codes/1_tutorial)
 
 <br>
