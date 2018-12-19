@@ -14,6 +14,8 @@ Deep Learning Course, University of Twente
 
 [9 Tutorial: CNN and RNN](https://github.com/ChristophBrune/DL_1819/tree/master/codes/9_tutorial)
 
+[12 Tutorial: VAE and GANs](https://github.com/ChristophBrune/DL_1819/tree/master/codes/12_tutorial)
+
 <br>
 
 ## Local Python installation
